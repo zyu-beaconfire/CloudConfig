@@ -6,4 +6,4 @@ server:
   port: 7777
 
 user:
-  role: QA Hello World 2021
+  role: QA: This is test for Configuration Auto Refresh
